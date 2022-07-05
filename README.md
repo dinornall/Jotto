@@ -1,3 +1,3 @@
 A project from my AP CS class
 
-You can guess a word, or have the computer guess the word
+You can choose the word, guess the word, or have the computer do either
